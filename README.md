@@ -1,2 +1,1 @@
-# first_project
-my first project
+мой первый репозиторий
